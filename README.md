@@ -6,4 +6,4 @@ I want to develop myself. Create pages, applications using JavaScript with all k
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomaszbortacki&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaszbortacki&layout=radical&text_color=ffffff&bg_color=141321)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaszbortacki&layout=radical&text_color=ffffff&bg_color=141321)
